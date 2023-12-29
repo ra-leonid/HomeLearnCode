@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun start(view: View) {
-        startActivity(Intent(this, Exercises::class.java))
+        startActivity(Intent(this, TypeLearn::class.java))
     }
 
 }
