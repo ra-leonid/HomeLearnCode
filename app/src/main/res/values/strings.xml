@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeLearnCode</string>
+    <string name="main_text_view">Изучай код и практикуй его!</string>
+    <string name="main_text_view_1">Начните свой путь к тому, чтобы стать опытным программистом уже сегодня.</string>
+    <string name="main_button">Start</string>
+    <string-array name="type_learn">
+        <item>Уроки</item>
+        <item>Упражнения</item>
+    </string-array>
+</resources>
